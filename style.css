@@ -116,6 +116,13 @@ main p{
         float: right;
         position: relative;
     }*/
+    header{
+        padding-top: 10px;
+        height: 50px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
     .genero{
         display: block;
         position: absolute;
