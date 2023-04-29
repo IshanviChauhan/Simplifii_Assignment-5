@@ -120,6 +120,7 @@ main p{
         position: relative;
         border-radius: 65px;
         width: 100%;
+        margin-right: 70px;
     }
     h1, h2, p{
         max-width: fit-content;
