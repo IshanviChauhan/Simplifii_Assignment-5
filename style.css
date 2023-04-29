@@ -133,5 +133,6 @@ main p{
     }
     .signup-btn{
         padding:2px 4px;
+        width:100px;
     }
 }
