@@ -122,8 +122,6 @@ main p{
     .genero{
         display: block;
         position: absolute;
-        top:18px;
-        left:32px;
         border-radius: 65%;
         width:20%;
     } 
