@@ -118,7 +118,7 @@ main p{
         display: block;
         position: absolute;
         border-radius: 65px;
-
+        width: 20%;
     }
     h1, h2, p{
         max-width: fit-content;
