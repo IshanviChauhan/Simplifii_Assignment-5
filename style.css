@@ -12,6 +12,10 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background: linear-gradient(rgb(0,0,0,0.9),rgb(0,0,0.6),url('bg.png'));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 ul{
     display: flex;
@@ -36,7 +40,7 @@ li a:hover::after{
     width: 100%;
 }
 main{
-    display: flex;
+    display:flex;
     height:calc(100vh - 100px);
     align-items: center;
     justify-content: center;
@@ -93,13 +97,21 @@ main p{
     text-transform: uppercase;
     border-radius: 50px;
 }
-@media (max-width: 1024px){
-    .hero-img {
-        display: flex;
-        justify-content: center;
-        margin: 0 auto 10px;
-        flex-wrap: wrap;
-        position: relative;
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+}
+@media only screen and (max-width:768px){
+    nav{
         flex-direction: column;
+        position: relative;
+    }
+    main{
+        display: block;
+        position: absolute;
     }
 }
