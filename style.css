@@ -113,7 +113,7 @@ main p{
     header nav ul li{
         display: block;
         position: absolute;
-        top:18px;
+        top:50px;
         right:32px;
     }
     .genero{
