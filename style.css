@@ -131,4 +131,7 @@ main p{
         position: absolute;
         margin-top: 200px;
     }
+    .signup-btn{
+        padding:2px 4px;
+    }
 }
