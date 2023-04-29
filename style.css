@@ -12,10 +12,6 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: linear-gradient(rgb(0,0,0,0.9),rgb(0,0,0.6),url('bg.png'));
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
 }
 ul{
     display: flex;
@@ -114,4 +110,11 @@ main p{
         display: block;
         position: absolute;
     }
+    header,.genero{
+    padding-top: 50px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 }
