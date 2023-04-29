@@ -102,20 +102,6 @@ main p{
     flex-direction: column;
 }
 @media only screen and (max-width:768px){
-    /* main div{
-        flex-direction: column;
-        position: relative;
-    }
-    main div img{
-        display: block;
-        position: absolute;
-        width:fit-content;
-    }
-    header nav ul li a{
-        flex-direction:column;
-        float: right;
-        position: relative;
-    }*/
     header{
         padding-top: 10px;
         height: 50px;
