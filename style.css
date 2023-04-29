@@ -108,6 +108,7 @@ main p{
         display: flex;
         justify-content: space-around;
         align-items: right;
+        font-size:smaller;
     }
     .genero{
         display: block;
