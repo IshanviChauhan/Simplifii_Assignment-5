@@ -119,7 +119,7 @@ main p{
         display: inline;
         position: relative;
         border-radius: 65px;
-        width: 50%;
+        width: 100%;
     }
     h1, h2, p{
         max-width: fit-content;
