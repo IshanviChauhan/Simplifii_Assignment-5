@@ -43,6 +43,7 @@ main{
 }
 .genero{
     border-radius: 65px;
+    width:130%;
 }
 .hero-img{
     max-width: 500px;
@@ -122,6 +123,7 @@ main p{
         top:18px;
         left:32px;
         border-radius: 65%;
+        width:10%;
     } 
     .content-left{
         max-width: fit-content;
