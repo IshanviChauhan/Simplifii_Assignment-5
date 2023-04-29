@@ -110,11 +110,13 @@ main p{
         display: block;
         position: absolute;
     }
-    header nav ul li{
-        flex-direction: column-reverse;
+    header nav ul li a{
+        flex-direction:column;
+        float: right;
         position: relative;
-        top:50px;
-        right:32px;
+        top:20%;
+        right:2%;
+        max-width: 200px;
     }
     .genero{
         display: block;
