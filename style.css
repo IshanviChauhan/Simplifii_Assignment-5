@@ -108,7 +108,13 @@ main p{
         display: flex;
         justify-content: space-around;
         align-items: right;
-        font-size:smaller;
+    }
+    ul li a{
+        padding: 0 10px;
+        text-decoration: none;
+        color: #3a3a3a;
+        display: inline-block;
+        font-size: smaller;
     }
     .genero{
         display: block;
