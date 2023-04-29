@@ -110,11 +110,14 @@ main p{
         display: block;
         position: absolute;
     }
-    header,.genero{
-    padding-top: 50px;
-    height: 100px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
+    header{
+        padding-top: 50px;
+        height: 100px;
+        display: flex;
+        align-items: center;
+    }
+    .genero{
+        display: flex;
+        justify-content:left;
+    }
 }
