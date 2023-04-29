@@ -119,7 +119,6 @@ main p{
         position: absolute;
         border-radius: 65%;
         width:20%;
-        padding-left:20px;
     }
     .content-left{
         max-width: fit-content;
