@@ -29,7 +29,7 @@ li ::after{
     display: block;
     height: 4px;
     width: 0;
-    background: #c4c4f7;
+    background: #ffa034;
     transition: all .5s;
 }
 li a:hover::after{
@@ -59,7 +59,7 @@ main h1{
 }
 main h2{
     font-size: 25px;
-    color: #fca70c;
+    color: #ffa034;
     font-weight:400;
     text-transform: uppercase;
     text-decoration:overline;
