@@ -111,8 +111,8 @@ main p{
         position: absolute;
     }
     header nav ul li{
-        display: block;
-        position: absolute;
+        flex-direction: column;
+        position: relative;
         top:50px;
         right:32px;
     }
