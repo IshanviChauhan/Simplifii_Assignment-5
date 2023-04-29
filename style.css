@@ -117,7 +117,7 @@ main p{
     .genero{
         display: block;
         position: absolute;
-        border-radius: 65%;
+        border-radius: 65px;
         width:20%;
         padding-left:20px;
     }
@@ -128,6 +128,6 @@ main p{
     .content-right{
         display: block;
         position: absolute;
-        margin-top: 100px;
+        margin-top: 200px;
     }
 }
