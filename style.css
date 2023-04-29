@@ -110,7 +110,7 @@ main p{
         flex-direction: column;
         position: relative;
     }
-    main{
+    main div img{
         display: block;
         position: absolute;
     }
