@@ -17,6 +17,7 @@
         position: absolute;
         top:18px;
         left:32px;
+        border-radius: 65%;
     } 
     .content-left{
         max-width: fit-content;
