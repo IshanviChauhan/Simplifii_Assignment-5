@@ -111,7 +111,7 @@ main p{
         position: absolute;
     }
     header nav ul li{
-        flex-direction: column;
+        flex-direction: column-reverse;
         position: relative;
         top:50px;
         right:32px;
