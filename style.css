@@ -119,7 +119,6 @@ main p{
         display: block;
         position: absolute;
         border-radius: 65%;
-        width:20%;
         padding-left:20px;
     }
     .content-left{
