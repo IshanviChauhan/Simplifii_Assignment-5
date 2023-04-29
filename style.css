@@ -95,6 +95,9 @@ main p{
     border-radius: 50px;
 }
 @media(max-width:768px){
+    body{
+        margin: 2px;
+    }
     header{
         padding-top: 10px;
         height: 70px;
