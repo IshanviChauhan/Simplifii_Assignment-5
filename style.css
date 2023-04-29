@@ -107,7 +107,7 @@ main p{
         height: 50px;
         display: flex;
         justify-content: space-around;
-        align-items: right;
+        align-items: center;
     }
     nav ul{
         padding-left: 20%;
