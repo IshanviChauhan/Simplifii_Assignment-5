@@ -97,13 +97,12 @@ main p{
 @media(max-width:768px){
     header{
         padding-top: 10px;
-        height: 50px;
+        height: 100px;
         display: flex;
         justify-content: space-around;
         align-items: center;
     }
     nav ul{
-        padding-left: 30px;
         display: flex;
         list-style-type: none;
         align-items: center;
@@ -119,7 +118,7 @@ main p{
         display: block;
         position: absolute;
         border-radius: 65px;
-        width: 20%;
+        width: 15%;
     }
     h1, h2, p{
         max-width: fit-content;
