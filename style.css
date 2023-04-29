@@ -116,10 +116,10 @@ main p{
         font-size: smaller;
     }
     .genero{
-        display: inline-block;
+        display: inline;
         position: relative;
         border-radius: 65px;
-        width: 15%;
+        width: 25%;
     }
     h1, h2, p{
         max-width: fit-content;
