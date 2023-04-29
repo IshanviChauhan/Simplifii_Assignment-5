@@ -109,8 +109,18 @@ main p{
         justify-content: space-around;
         align-items: center;
     }
-    nav ul{
+    ul{
         padding-left: 20%;
+        display: flex;
+        list-style-type: none;
+        align-items: center;
+    }
+    ul li a{
+        padding: 0 5px;
+        text-decoration: none;
+        color: #3a3a3a;
+        display: inline-block;
+        font-size: smaller;
     }
     ul li a{
         padding: 0 5px;
