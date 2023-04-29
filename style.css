@@ -113,8 +113,8 @@ main p{
         font-size: smaller;
     }
     .genero{
-        display: block;
-        position: absolute;
+        display: inline-block;
+        position: relative;
         border-radius: 65px;
         width: 15%;
     }
