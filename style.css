@@ -117,7 +117,8 @@ main p{
         align-items: center;
     }
     .genero{
-        display: flex;
-        justify-content:left;
-    }
+        display: block;
+        position: absolute;
+        top:18px;
+        left:32px;
 }
