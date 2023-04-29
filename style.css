@@ -94,6 +94,14 @@ main p{
     text-transform: uppercase;
     border-radius: 50px;
 }
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+}
 @media only screen and (max-width:768px){
     header{
         padding-top: 10px;
@@ -119,6 +127,7 @@ main p{
         display: block;
         position: absolute;
         border-radius: 65%;
+        width:20%;
         padding-left:20px;
     }
     .content-left{
