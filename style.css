@@ -103,6 +103,7 @@ main p{
         align-items: center;
     }
     nav ul{
+        padding-left: 30px;
         display: flex;
         list-style-type: none;
         align-items: center;
