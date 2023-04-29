@@ -110,11 +110,11 @@ main p{
         display: block;
         position: absolute;
     }
-    header{
-        padding-top: 50px;
-        height: 100px;
-        display: flex;
-        align-items: center;
+    header nav ul li{
+        display: block;
+        position: absolute;
+        top:18px;
+        right:32px;
     }
     .genero{
         display: block;
